@@ -5,7 +5,7 @@ body {
 }
 
 body {
-  font-family: 'Lato', sans-serif;
+  font-family: Arial, Helvetica, sans-serif
 }
 
 .section-title {
@@ -46,4 +46,16 @@ body {
   background-color: transparent;
   transition: background-color 1s ease;
   opacity: 0.6;
+}
+
+.scroll-buttons {
+  display: inline-block;
+  float: right;
+  margin-right: 20px;
+  font-weight: 700;
+  font-size: 30px;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  transition: all 0.5s ease;
 }

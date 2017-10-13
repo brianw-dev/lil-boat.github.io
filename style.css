@@ -99,3 +99,44 @@ body {
 .projects {
   background-color: #eee;
 }
+
+.project-title {
+  font-size: 25px;
+  color: #0099cc;
+  font-weight: bold;
+}
+
+.projects-container {
+  width: 80%;
+  margin: 70px auto;
+  text-align: center;
+}
+
+.project {
+  vertical-align: top;
+  width: 450px;
+  display: inline-block;
+  margin: 20px;
+}
+
+.project-image {
+  height: 250px;
+  width: 350px;
+  box-shadow: 3px 3px 3px #888888;
+  border-radius: 5px;
+}
+
+
+.links a {
+  font-size: 20px;
+  text-decoration: none;
+  color: #0099cc;
+}
+
+.github {
+  padding-right: 10px;
+}
+
+.live {
+  padding-left: 5px;
+}
